@@ -1,0 +1,26 @@
+{
+  "name": "knockout-router-example",
+  "version": "0.1.0",
+  "description": "A simple example application to demonstrate knockout-router usage",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbankester/knockout-router-example.git"
+  },
+  "author": "Christian Bankester <cbankester@immense.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbankester/knockout-router-example/issues"
+  },
+  "homepage": "https://github.com/cbankester/knockout-router-example#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "5.x",
+    "webpack": "1.x",
+    "babel-loader": "5.x"
+  }
+}

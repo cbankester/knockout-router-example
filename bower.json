@@ -1,0 +1,22 @@
+{
+  "name": "knockout-router-example",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cbankester/knockout-router-example",
+  "authors": [
+    "Christian Michael Paul Bankester <cbankester@immense.net>"
+  ],
+  "description": "A simple example application to demonstrate knockout-router usage",
+  "private": true,
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "3.x",
+    "knockout-router": "0.x"
+  }
+}
